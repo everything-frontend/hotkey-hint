@@ -2,9 +2,9 @@
 
 > Keyboard shortcut manager with a beautiful overlay. Register hotkeys, reveal them with `?`, handle sequences and groups — in 5 lines. Zero dependencies.
 
-[![npm version](https://img.shields.io/npm/v/hotkey-hint)](https://npmjs.com/package/hotkey-hint)
+[![npm version](https://img.shields.io/npm/v/hotkey-hint)](https://www.npmjs.com/package/hotkey-hint)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/hotkey-hint)](https://bundlephobia.com/package/hotkey-hint)
-[![license](https://img.shields.io/github/license/yourusername/hotkey-hint)](LICENSE)
+[![license](https://img.shields.io/github/license/everything-frontend/hotkey-hint)](https://github.com/everything-frontend/hotkey-hint/blob/main/LICENSE)
 
 ---
 
@@ -204,4 +204,4 @@ Override CSS variables to theme the overlay:
 
 ## License
 
-MIT
+[MIT](https://github.com/everything-frontend/hotkey-hint/blob/main/LICENSE)
