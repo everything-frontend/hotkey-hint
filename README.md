@@ -67,7 +67,7 @@ hh.registerAll([
 - **Skips inputs** — never fires inside `<input>`, `<textarea>`, or `contenteditable`
 - **Chainable API** — `.register().register().registerAll()`
 - **SSR safe** — guards all DOM access behind `typeof window`
-- **1.8kB gzip**
+- **~3kB minified + gzipped**
 
 ---
 
