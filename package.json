@@ -1,6 +1,6 @@
 {
   "name": "hotkey-hint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Keyboard shortcut manager with a beautiful overlay. Register hotkeys, reveal them with ?, handle sequences and groups — in 5 lines. Zero dependencies.",
   "type": "module",
   "main": "./dist/index.cjs",
