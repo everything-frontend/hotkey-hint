@@ -3,8 +3,11 @@
 > Keyboard shortcut manager with a beautiful overlay. Register hotkeys, reveal them with `?`, handle sequences and groups — in 5 lines. Zero dependencies.
 
 [![npm version](https://img.shields.io/npm/v/hotkey-hint)](https://www.npmjs.com/package/hotkey-hint)
+[![npm downloads](https://img.shields.io/npm/dm/hotkey-hint)](https://www.npmjs.com/package/hotkey-hint)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/hotkey-hint)](https://bundlephobia.com/package/hotkey-hint)
 [![license](https://img.shields.io/github/license/everything-frontend/hotkey-hint)](https://github.com/everything-frontend/hotkey-hint/blob/main/LICENSE)
+[![TypeScript](https://img.shields.io/badge/types-included-blue)](https://www.npmjs.com/package/hotkey-hint)
+[![zero dependencies](https://img.shields.io/badge/dependencies-0-green)](https://www.npmjs.com/package/hotkey-hint)
 
 ---
 
