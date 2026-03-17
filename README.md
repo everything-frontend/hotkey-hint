@@ -9,6 +9,8 @@
 [![TypeScript](https://img.shields.io/badge/types-included-blue)](https://www.npmjs.com/package/hotkey-hint)
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-green)](https://www.npmjs.com/package/hotkey-hint)
 
+**[Live Demo →](https://www.everythingfrontend.com/hotkey-hint)**
+
 ---
 
 ## Why
